@@ -6,5 +6,7 @@ operacion = a*b^2 - a
 
 print(operacion)
 
+#xd
+
 
 

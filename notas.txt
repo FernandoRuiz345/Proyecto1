@@ -7,3 +7,10 @@
 
 - Devolver calculadora
 
+# nueva carpeta de imágenes
+
+- puro captuta de pantalla
+
+# ligando visual studio code a github
+
+- nada nuevo ya estaba listo
