@@ -1,0 +1,166 @@
+
+Dr. Charles R. Severance Home Page
+content="WQuA2ZPREiCyTlgNh/fv0jvzKJxrpzlagjiPaakSNH0="
+
+body { background: black; font-family: Arial,Helvetica,Verdana,Sans-Serif; color: white;}
+body table { font-size: 11pt; }
+a:link, a:visited, a:active { color: gray; text-decoration: none; font-weight: bold}
+a:hover { color:orange }
+strong {color: orange; }
+em {color: yellow; font-style: normal;}
+
+#twitter_div {
+color: yellow;
+text-align: center;
+}
+#twitter_div ul {
+display: inline;
+fornt-size: 75%;
+margin:0px 0px 0px 0px;
+padding:0px 0px 0px 0px;
+list-style-type: none;
+}
+#twitter_div p {
+margin:0px 0px 0px 0px;
+text-align: center;
+}
+
+link rel="alternate" type="application/rss+xml" title="RSS" 
+href="https://www.dr-chuck.com/csev-blog/index.rdf" 
+link rel="alternate" type="application/atom+xml" title="Atom" 
+href="https://www.dr-chuck.com/csev-blog/atom.xml" 
+name="google-translate-customization" 
+content="502d2c1a267d1206-8efe060c714e194c-g94a06c6c571083ae-11"
+
+
+td align=center valign=top width=180
+href="https://www.learnerprivacy.org/"
+img align="center" src="Chuck_Square_B&W.jpg" width="160" style="border: white 2px solid;" alt="Photo Credit: Brent Severance"
+
+href="https://www.si.umich.edu/"
+
+href="https://www.ratemyprofessors.com/ShowRatings.jsp?tid=1159280" target="_blank"
+img src="/images/rate-my-professor.jpg" width="140" alt="Rate This Professor"
+
+href=https://www.learnerprivacy.org>Podcast
+href=https://www.dr-chuck.com/csev-blog/>Blog
+href=https://www.twitter.com/drchuck/ target=_blank>@drchuck Twitter
+href="https://www.dr-chuck.com/dr-chuck/resume/speaking.htm" target=_blank>Keynote Speaker
+href="https://www.slideshare.net/csev" 
+href=/dr-chuck/resume/index.htm target=_blank>Resume and Bio
+
+target="_blank" href="https://amzn.to/1K5Q81K">Amazon Author Page
+
+target="_blank" href="https://www.coursera.org/instructor/drchuck">My Coursera Page
+href="http://afs.dr-chuck.com/papers/" 
+href="https://itunes.apple.com/us/podcast/computing-conversations/id731495760" 
+href="https://www.youtube.com/playlist?list=PLHJB2bhmgB7dFuY7HmrXLj5BmHGKTD-3R" 
+href="https://developers.imsglobal.org/" 
+href="https://www.youtube.com/user/csev" 
+href="https://vimeo.com/drchuck/videos"
+href="https://backpack.openbadges.org/share/4f76699ddb399d162a00b89a452074b3/" 
+
+href="https://www.linkedin.com/in/charlesseverance/" 
+img src="https://www.linkedin.com/img/webpromo/btn_viewmy_120x33.png" 
+    width="120" height="33" border="0" alt="View Chuck Severance's profile on LinkedIn"
+
+title="Charles R. Severance" 
+href="https://www.researchgate.net/profile/Charles_Severance/
+img src="https://www.researchgate.net/images/public/profile_share_badge.png" alt="Charles R. Severance" /
+
+valign=top
+div style="float: right"
+script data-gittip-username="drchuck"
+        data-gittip-widget="button"
+        src="//gttp.co/v1.js"
+
+New:
+
+href="https://www.learnerprivacy.org/" target="_blank">My LearnerPrivacy.org podcast
+
+New:
+
+href="/office" target="_blank">MOOC Office Hours Around the World
+
+Free Courses / Educational Material:
+
+href="https://www.py4e.com/" target="_blank">Python for Everybody
+
+href="https://www.dj4e.com/" target="_blank">Django for Everybody
+
+href="https://www.wa4e.com/" target="_blank">Web Applications for Everybody
+href="https://www.coursera.org/course/insidetheinternet" target="_blank">Internet History, Technnology and Security
+
+Software
+
+href="https://www.sakaiproject.org/" target="_blank">The Sakai Collaboration
+and Learning Environment
+
+href="https://www.tsugi.org/" target="_blank">Tsugi: A framework for learning tools
+
+href="https://developers.imsglobal.org/" target="_blank">IMS Learning Tools
+Interoperability
+
+
+Books
+href="http://www.py4e.com/book" /target="_blank">Python For Everybody: Exploring Data in Python 3
+href="/sakai-book">Sakai: Building an Open Source Community (2011, 2014)
+href="http://www.amazon.com/gp/product/1624311393/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1624311393&linkCode=as2&tag=drchu02-20" target="_blank">Raspberry Pi (21st Century Skills Innovation Library) (2013)
+href="http://www.amazon.com/gp/product/059680069X/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=059680069X&linkCode=as2&tag=drchu02-20" target="_blank">Using Google App Engine (O'Reilly 2009)
+href="http://www.amazon.com/Performance-Computing-Architectures-Optimization-Benchmarks/dp/156592312X/" target="_blank">High Performance Computing</a> (<a href="http://oreilly.com/catalog/9781565923126/" target="_blank">O'Reilly 1998,  href="http://cnx.org/content/col11136/latest/" target=_blank>Connexions 2010)
+
+Web/Multimedia sites
+
+href="http://www.youtube.com/playlist?list=PLHJB2bhmgB7dFuY7HmrXLj5BmHGKTD-3R" target="_blank">
+IEEE Computer - Computing Conversations Interviews
+(2011-2016)
+
+href=https://www.vimeo.com/17207620 target="_blank"
+Dr. Chuck sings the blues  (2008)
+<br> &nbsp;
+href="https://www.youtube.com/watch?v=BVKpW02hsrU" target="_blank"
+Dr. Chuck goes motocross racing (2007)
+
+href="https://www.youtube.com/watch?v=sa2WsgCvn7c" target="_blank"
+A Film About Brent and His ATV
+ (2005)
+
+href="https://www.vimeo.com/17213019" target="_blank"
+Audition Tape</a> (2003) for TechTV which was
+rejected :(.
+
+href="https://www.youtube.com/watch?v=FJ078sO35M0" target="_blank"
+Dr. Chuck goes stock car racing (2002)
+
+href="http://afs.dr-chuck.com/citoolkit" target=_blank
+The Community Information Toolkit</a> - A project to provide public libraries and 
+other organizations a start on using Internet in Commmunity Networking. (1999)
+
+td valign=top align=center width=180
+div id="google_translate_element"></div><script type="text/javascript"
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, gaTrack: true, gaId: 'UA-423997-1'}, 'google_translate_element');
+}
+type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+class="twitter-timeline" href="https://twitter.com/drchuck" data-widget-id="282172185219567616">Tweets by @drchuck</a>
+!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+</table>
+<br> &nbsp;
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-423997-1']);
+  _gaq.push(['_setDomainName', 'dr-chuck.com']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</body>
+</html>
